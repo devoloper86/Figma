@@ -51,9 +51,6 @@ nav {
   display: flex;
   justify-content: space-between;
 }
-main {
-  /* border: 2px solid red; */
-}
 .main_1 {
   display: flex;
   justify-content: space-between;
