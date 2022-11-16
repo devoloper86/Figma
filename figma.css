@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 1440px;
+  height: 3726px;
+  /* border: 2px solid red; */
+}
+nav {
+  /* border: 2px solid red; */
+  height: 80px;
+  width: 1110px;
+  margin: auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_1 p {
+  font-family: "Potta One";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 55px;
+  color: #565759;
+}
+.nav_2 {
+  height: 22px;
+  width: 434px;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_2 li {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #697391;
+  list-style: none;
+}
+.nav_3 {
+  height: 30px;
+  width: 150px;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+.main_1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left {
+  height: 525px;
+  width: 550px;
+}
+.left img {
+  /* border: 2px solid red; */
+  margin-top: 60px;
+  margin-left: 165px;
+}
+.right {
+  width: 385px;
+  height: 120px;
+  margin-right: 165px;
+  /* border: 2px solid red; */
+}
+.right p {
+  font-family: "Federo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 60px;
+  color: #3a3a3a;
+}
+.right_bottom {
+  width: 895px;
+  height: 497px;
+  margin-left: 535px;
+  margin-top: -172px;
+  background: #f6f6f6;
+  display: flex;
+  align-items: center;
+}
+.right_bottom p {
+  font-family: "Federo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: #3a3a3a;
+  text-align: center;
+  /* border: 2px solid red; */
+  margin-left: 37px;
+  /* display: flex; */
+}
+.con_1 {
+  width: 255px;
+  height: 342px;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 1);
+}
+.con_1 img {
+  width: 81px;
+  height: 160px;
+  margin: 71px 111px 87px 87px;
+}
+.con_1 .p1 {
+  width: 159px;
+  height: 23px;
+  left: 213px;
+  top: 1030px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #2a2a2b;
+}
