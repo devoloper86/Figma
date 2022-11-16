@@ -6,10 +6,10 @@
 body {
   width: 1440px;
   height: 3726px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 nav {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 80px;
   width: 1110px;
   margin: auto;
@@ -29,7 +29,7 @@ nav {
 .nav_2 {
   height: 22px;
   width: 434px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -47,12 +47,12 @@ nav {
 .nav_3 {
   height: 30px;
   width: 150px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   justify-content: space-between;
 }
 main {
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 .main_1 {
   display: flex;
@@ -64,7 +64,7 @@ main {
   width: 550px;
 }
 .left img {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin-top: 60px;
   margin-left: 165px;
 }
@@ -72,7 +72,7 @@ main {
   width: 385px;
   height: 120px;
   margin-right: 165px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 .right p {
   font-family: "Federo";
@@ -98,7 +98,7 @@ main {
   font-size: 40px;
   color: #3a3a3a;
   text-align: center;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin-left: 37px;
   /* display: flex; */
 }
